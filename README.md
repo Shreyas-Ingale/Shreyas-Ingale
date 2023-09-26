@@ -44,7 +44,7 @@
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-ingale&layout=compact&theme=dark" alt=shreyas-ingale />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shreyas-ingale&theme=tokyo-night"/>
+![Snake animation](https://github.com/thepiyushmalhotra/shreyas-ingale/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Shreyas-Ingale/Shreyas-Ingale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
