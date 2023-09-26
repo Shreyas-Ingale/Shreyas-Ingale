@@ -45,11 +45,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shreyas-ingale/shreyas-ingale/output/snake.svg" alt="Snake animation" />
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
 <!---
 Shreyas-Ingale/Shreyas-Ingale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+<img src="https://raw.githubusercontent.com/shreyas-ingale/shreyas-ingale/output/snake.svg" alt="Snake animation" />
 --->
