@@ -2,10 +2,10 @@
 <h1 align="center">Hi 👋, I'm Shreyas Ingale</h1>
 
 
-- 🌱 I’m currently learning **Full Stack Web Development **
+- 🌱 I’m currently learning **Full Stack Web Development**
 - 💬 Ask me about **anything related to web development! From HTML to JavaScript, CSS to server-side scripting, I'm your go-to source for all things web-related. Let's turn your web ideas into reality! 💻🌐**
 - 📫 How to reach me **shreyasingale09@gmail.com**
-- ⚡ Fun fact **Did you know? The average person spends six months of their life waiting for red lights to turn green! 🚦 Time to optimize those idle moments and write some code! 💻**
+- ⚡ Fun fact **The average person spends six months of their life waiting for red lights to turn green! 🚦 Time to optimize those idle moments and write some code! 💻**
 
 <div> <a href="https://www.linkedin.com/in/shreyas-ingale" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/shreyas-ingale" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
