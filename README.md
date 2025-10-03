@@ -68,7 +68,7 @@
 ### GIS & Mapping
 <p align="left">
   <img src="https://openlayers.org/theme/img/logo-dark.svg" alt="OpenLayers" width="40" height="40"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2H7H7b1i8i8N4K9_arcgis-server-esri-logo-png%2F&psig=AOvVaw177oQ1SCO9k7tHZdKrgpWa&ust=1759595557934000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKC897K6iJADFQAAAAAdAAAAABAE" alt="ArcGIS" width="40" height="40"/>
+  <img src="https://www.clipartmax.com/png/small/302-3025709_arcgis-server-esri-logo-png.png" alt="ArcGIS" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mapbox-2.svg" alt="Mapbox" width="40" height="40"/>
 </p>
 
