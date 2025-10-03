@@ -68,21 +68,9 @@
 ### GIS & Mapping
 <p align="left">
   <img src="https://openlayers.org/theme/img/logo-dark.svg" alt="OpenLayers" width="40" height="40"/>
-  <img src="[https://images.seeklogo.com/logo-png/4/1/esri-arcgis-logo-png_seeklogo-49415.png](https://images.seeklogo.com/logo-png/4/1/esri-arcgis-logo-png_seeklogo-49415.png)" alt="ArcGIS" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clipartmax.com%2Fmiddle%2Fm2H7H7b1i8i8N4K9_arcgis-server-esri-logo-png%2F&psig=AOvVaw177oQ1SCO9k7tHZdKrgpWa&ust=1759595557934000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKC897K6iJADFQAAAAAdAAAAABAE" alt="ArcGIS" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mapbox-2.svg" alt="Mapbox" width="40" height="40"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyas-ingale&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-ingale&theme=radical" alt="GitHub Streak" />
-</div>
 
 ---
 
