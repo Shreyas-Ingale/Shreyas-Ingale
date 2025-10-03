@@ -68,8 +68,8 @@
 ### GIS & Mapping
 <p align="left">
   <img src="https://openlayers.org/theme/img/logo-dark.svg" alt="OpenLayers" width="40" height="40"/>
-  <img src="https://www.esri.com/content/dam/esrisites/en-us/common/icons/product-logos/arcgis-developers-64.svg" alt="ArcGIS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mapbox/mapbox-original-wordmark.svg" alt="Mapbox" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/353429/arcgis.svg" alt="ArcGIS" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mapbox-2.svg" alt="Mapbox" width="40" height="40"/>
 </p>
 
 ---
