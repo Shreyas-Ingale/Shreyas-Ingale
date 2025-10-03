@@ -30,7 +30,7 @@
 ## 🛠️ Tech Stack
 
 ### Languages
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -40,7 +40,7 @@
 </p>
 
 ### Frontend Web Frameworks & Libraries
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -49,19 +49,21 @@
 </p>
 
 ### Mobile Development
-<p align="left">
+<p align="center">
   <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" alt="Expo" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="Ionic" width="40" height="40"/>
 </p>
 
 ### Database
-<p align="left">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
 ### Build Tools & Dev Tools
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="Gulp" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
@@ -70,14 +72,14 @@
 </p>
 
 ### GIS & Mapping
-<p align="left">
+<p align="center">
   <img src="https://openlayers.org/theme/img/logo-dark.svg" alt="OpenLayers" width="40" height="40"/>
   <img src="https://www.clipartmax.com/png/small/302-3025709_arcgis-server-esri-logo-png.png" alt="ArcGIS" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mapbox-2.svg" alt="Mapbox" width="40" height="40"/>
 </p>
 
 ### DevOps
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
 </p>
@@ -85,6 +87,6 @@
 ---
 
 ### Stats
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-ingale&layout=compact&theme=dark" alt="shreyas-ingale"/>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-ingale&layout=compact&theme=dark" alt="shreyas-ingale"/>
 <br clear="both">
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
